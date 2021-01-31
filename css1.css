@@ -1,0 +1,73 @@
+* {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: #8d94a7;
+  font-family: "Baloo Tamma 2", cursive;
+}
+
+.container b{
+	color: #8d94a7;
+}
+.container h3{
+	color: #8d94a7;
+}
+
+.m-heading {
+  font-family: "Roboto Slab", serif;
+}
+
+.navigation-link {
+  border: 2px solid transparent;
+}
+
+.navigation-link:hover {
+  text-decoration: none;
+  border-bottom: 2px solid #a4d9e9;
+  transition: 0.5s ease;
+}
+
+.main-container {
+  height: 100vh;
+}
+
+.main_row {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.main_row h1 {
+  font-size: 5rem;
+}
+
+.main_row img {
+  width: auto;
+  height: 100vh;
+}
+
+.about {
+  background: #a4d9e9;
+  border-radius: 0.5rem;
+}
+
+.card {
+  border-bottom: 8px solid #a4d9e9;
+}
+
+#social-media {
+  background: #a4d9e9;
+}
+
+.media_link {
+  padding: 1rem;
+  max-width: 15rem;
+  margin-left: 1rem;
+  border: 2px solid #000;
+  border-radius: 4rem;
+}
+
+.container-fluid h4{
+	color: #8d94a7;
+}
